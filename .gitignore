@@ -1,1 +1,7 @@
 /node_modules
+/typings
+*.map
+
+# Intellij
+/.idea
+*.iml
